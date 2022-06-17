@@ -1,0 +1,19 @@
+@media (min-width:720px){
+ .vid {display: block;}
+
+}
+
+
+
+/* @media (max-width:720px){
+
+
+.vid {display:none;}
+} */
+
+
+@media (max-width: 768px) {
+    .vid {
+        display: none;
+    }
+}

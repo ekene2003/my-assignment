@@ -1,0 +1,152 @@
+.boss{
+    margin-top: 20px !important;
+}
+.bot{
+    margin-top: 30px !important;
+    padding: 10px 30px !important ;
+    border-radius: 30px !important;
+    background-color: transparent !important;
+    color: black !important;
+    border-color: gainsboro !important;
+    
+}
+li.nav-item{
+    margin: 30px 0px 0px 30px !important;
+    color: black !important;
+}
+img.design{
+    width: 400px !important;
+}
+h1.words{
+    letter-spacing: 1px !important;
+    color: black !important;
+    margin: 70px 0px 0px 0px !important;
+    line-height: 70px !important;
+    font-size: 65px !important;
+    
+}
+p.works{
+    margin-top: 40px !important;
+    margin-bottom: 40px!important;
+    font-size: x-large !important;
+    color: grey !important;
+}
+button.tool{
+    height: 60px !important;
+    width: 200px !important;
+    border-radius: 30px !important;
+    color: white !important;
+    background-color: #4726e1 !important;
+    border-color: #4726e1 !important;
+}
+button.img{
+    color: aliceblue !important;
+    width: 30px !important;
+}
+p.move{
+    color: blue !important;
+}
+section.part3{
+    background-color: #eee !important;
+}
+section.part3 img{
+    margin-top: 4rem !important;
+}
+section.part3 img.woman{
+    margin-top: 8rem !important;
+}
+section.part3 h1.side{
+    margin-top: 200px !important;
+    font-size: 50px !important;
+}
+section.part3 p{
+    font-size: 22px;
+    margin-top: 4rem ;
+}
+section.part3 p.p2{
+    font-size: 22px;
+    margin-top: 2rem ;
+}
+section.part4{
+    background-color: black !important;
+}
+section.part4 h1.head1{
+    color: white;
+    font-size: 50px ;
+    padding-top: 60px ;
+}
+section.part4 .vid{
+margin-top: 50px !important;
+text-align: center !important;
+}
+section.part4 .lor{
+   width: 50%;
+   text-align: center;
+   margin: 0px auto;
+   font-size: 14px;
+   margin-bottom: 200px;
+}
+section.part5 h1.loyal{
+    text-align: center;
+    font-size: 50px ;
+    color: black;
+    padding-top: 200px;
+    padding-bottom: 60px;
+}
+section.part5 h1.a1{
+    color: #4726e1;
+    font-size: 60px;
+}
+section.part5 p{
+    color: grey;
+}
+section.part5 h1.start{
+    font-size: 50px;
+    margin-top: 180px;
+}
+section.part5 img.back{
+    margin-top: 180px;
+}
+section.part6 h1.p6{
+    font-size: 50px ;
+    margin-top: 200px;
+    text-align: left !important;
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+    width: 50%;
+    color: black;
+}
+section.part6 .fea{
+    width: 60% !important;
+    display: flex;
+    justify-content: center;
+    margin: 0px auto;
+}
+section.part6 button.azu{
+    margin: 50px 0px 0px 220px;
+}
+section.part7 img{
+margin-top: 300px;
+}
+section.part7 p.p7{
+    margin-top: 15px;
+    color: grey;
+}
+section.part7 .listwork{
+    border: none !important;
+    padding-top: 295px;
+    border-bottom: 0px;
+    list-style-type: none;
+}
+section.part7 .disabled{
+    color: gray;
+}
+p.usa{
+    color: grey;
+    margin-top: 100px;
+}
+p.end{
+    color: grey;
+    margin-top: 170px;
+}

@@ -1,0 +1,11 @@
+section{
+    width: 500px !important;
+}
+div.josh{
+    width: 500px !important;  
+}
+body{
+    background-image: url('../images/work\ 3.jpg');
+    background-position:center ;
+    background-size: cover;
+}
